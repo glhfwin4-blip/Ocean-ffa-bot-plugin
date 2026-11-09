@@ -1,0 +1,4 @@
+server-id: "ocean-ffa-1"
+api-url: "https://YOUR-API-DOMAIN/v1"
+api-key: "CHANGE-ME"
+heartbeat-seconds: 20

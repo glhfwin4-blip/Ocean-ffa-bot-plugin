@@ -1,0 +1,12 @@
+name: OceanBridge
+version: 1.0.0
+main: fun.oceanffa.bridge.OceanBridge
+api-version: '1.21'
+author: Ocean FFA
+commands:
+  discord:
+    description: Link your Minecraft account to Discord
+    usage: /discord link <code>
+permissions:
+  oceanbridge.link:
+    default: true
