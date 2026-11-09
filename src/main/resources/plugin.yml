@@ -1,7 +1,7 @@
 name: OceanBridge
 version: 1.0.0
 main: fun.oceanffa.bridge.OceanBridge
-api-version: '1.21'
+api-version: '1.21.11'
 author: Ocean FFA
 commands:
   discord:
